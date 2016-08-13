@@ -2,6 +2,7 @@ require "pry"
 require "pry-byebug"
 
 require "mdl_search/version"
+require "mdl_search/requires"
 require "mdl_search/raw_data"
 require "mdl_search/icon"
 require "mdl_search/searcher"

@@ -1,0 +1,7 @@
+require 'thor'
+require 'yaml'
+require 'net/http'
+require 'uri'
+require 'json'
+require 'yaml'
+require 'pp'

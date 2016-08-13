@@ -1,10 +1,3 @@
-require 'net/http'
-require 'uri'
-require 'json'
-require 'yaml'
-
-require 'pp'
-
 module MdlSearch
   class Searcher
     attr_accessor :agent

@@ -1,5 +1,3 @@
-require 'thor'
-
 module MdlSearch
   class CLI < Thor
 
