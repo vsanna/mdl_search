@@ -1,0 +1,65 @@
+---
+- length: 216
+  data:
+    id: action
+    name: Action
+- length: 4
+  data:
+    id: alert
+    name: Alert
+- length: 80
+  data:
+    id: av
+    name: AV
+- length: 50
+  data:
+    id: communication
+    name: Communication
+- length: 41
+  data:
+    id: content
+    name: Content
+- length: 52
+  data:
+    id: device
+    name: Device
+- length: 68
+  data:
+    id: editor
+    name: Editor
+- length: 14
+  data:
+    id: file
+    name: File
+- length: 48
+  data:
+    id: hardware
+    name: Hardware
+- length: 155
+  data:
+    id: image
+    name: Image
+- length: 68
+  data:
+    id: maps
+    name: Maps
+- length: 25
+  data:
+    id: navigation
+    name: Navigation
+- length: 53
+  data:
+    id: notification
+    name: Notification
+- length: 19
+  data:
+    id: places
+    name: Places
+- length: 30
+  data:
+    id: social
+    name: Social
+- length: 8
+  data:
+    id: toggle
+    name: Toggle

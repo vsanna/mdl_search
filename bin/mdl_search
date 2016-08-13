@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'mdl_search'
+
+MdlSearch::CLI.start # ここ追加
