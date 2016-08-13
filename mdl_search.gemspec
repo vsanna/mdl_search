@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["cvcl0808@gmail.com"]
   spec.summary       = "gem to search material icons by icon-name, group, keywords" 
   spec.description   = "gem to search material icons by icon-name, group, keywords" 
-  spec.homepage      = "https://github.com/vsanna"
+  spec.homepage      = "https://github.com/vsanna/mdl_search"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
