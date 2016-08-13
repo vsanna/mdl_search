@@ -18,7 +18,7 @@ module MdlSearch
 
     desc 'groups [query]', 'show material icons groups'
     def groups(query = nil)
-      query = query.downcase
+      query = query.downcase unless query.nil?
       MdlSearch.groups_search(query).each do |g|
         name = set_color(g[:name].ljust(20, ' '), :yellow)
         length = set_color(g[:length].to_s.rjust(5, ' '), :bold)
